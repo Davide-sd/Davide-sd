@@ -3,6 +3,9 @@
 * 🖮 I make tools that improves existing open source projects and makes life easier to the users.
 * 🛠️ I like making things, particularly 🤖.
 * 🌲 Love exploring the outdoors.
+* Sometimes I help people at StackOverflow.
+
+  [![Davide_sd's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/2329968?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/2329968 "Davide_sd's Stack Overflow Reputation")
 * 🕮 Author and educator.
 
 
