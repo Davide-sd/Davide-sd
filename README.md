@@ -17,7 +17,7 @@
 
 * Get to know SymPy capabilities and limitations.
 * Gain hands-on experience in expression manipulation with guided exercises.
-* Generate Equations of Motion of mechanical systems, set up numerical simulations and visualize the results.
+* Generate Equations of Motion of mechanical systems, run numerical simulations and setup optimization problems.
 * Translate symbolic expressions to a target programming language, such ash C/C++, Javascript, Matlab/Octave, Julia and more.
 * Explore SymPy architecture and learn how to extend its capabilities.
 
